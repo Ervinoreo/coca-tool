@@ -1,0 +1,2 @@
+[console_scripts]
+coca = coca.__main__:main

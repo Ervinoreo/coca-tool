@@ -1,0 +1,8 @@
+setup.py
+src/coca/__init__.py
+src/coca/__main__.py
+src/coca.egg-info/PKG-INFO
+src/coca.egg-info/SOURCES.txt
+src/coca.egg-info/dependency_links.txt
+src/coca.egg-info/entry_points.txt
+src/coca.egg-info/top_level.txt
